@@ -2,8 +2,8 @@
 name=QEP07 TIN Loader
 qgisMinimumVersion=3.34
 qgisMaximumVersion=3.99
-description=Open 12d .12da as MDAL .TIN mesh (auto-saved beside source) or with options (filters/transforms). Also writes .TIN.
-about=Quick 'Open .12da as Mesh (auto .TIN)' uses visible-only triangles and reindexes vertices. Options add area/bbox filters, Z/XY transforms, drop construction triangles. Output .TIN saved next to source with unique name; fallback to temp if not writable.
+description=Load 12d (.12da) and SMS/XMS (.tin) TINs into QGIS. Convert to 2DM for editing with Mesh Digitizing tools.
+about=QEP07 TIN Loader adds support for loading 12d (.12da) and SMS/XMS (.tin) files as Mesh layers in QGIS. Made to make flood modelling (e.g. TUFLOW) a bit easier, with direct conversion to 2DM for editing and model use.
 version=2.1.0
 author=FG
 email=example@example.com
