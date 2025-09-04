@@ -4,8 +4,8 @@
 This plugin was made to make flood modelling workflows (e.g. **TUFLOW**) a bit easier.  
 
 - Open **12d (.12da)** and **SMS/XMS (.tin)** files as Mesh layers.  
-- Convert directly to **2DM** for full editing with QGIS Mesh Digitizing tools.  
-- **TUFLOW should be able to read 2DM format directly.**  
+- Convert directly to **2DM** for full editing with **QGIS Mesh Digitizing tools**.  
+- TUFLOW should be able to read **2DM** format directly.
 
 **Tested with QGIS 3.34 and 3.40.**
 
