@@ -3,7 +3,7 @@
 **QEP07 TIN Loader** adds support for loading common engineering TIN formats in QGIS.  
 This plugin was made to make flood modelling workflows (e.g. **TUFLOW**) a bit easier.  
 
-- Open **12d (.12da)** and **SMS/XMS (.tin)** files as Mesh layers.  
+- Open **12d (.12da)** and **SMS/XMS (.tin)** files as MDAL Mesh(.tin) layers.  
 - Convert directly to **2DM** for full editing with **QGIS Mesh Digitizing tools**.  
 - TUFLOW should be able to read **2DM** format directly.
 
