@@ -13,7 +13,9 @@ This plugin was made to make flood modelling workflows (e.g. **TUFLOW**) a bit e
 
 **Future improvements:**  
 - Handle different encoding (for now, modellers please do your own conversion to ANSI, untick *Full TIN* when exporting from 12d, etc.).  
-- Support for more formats (e.g. `.12daz`, 3D faces in DWG/DXF).  
+- Support for more formats (e.g. `.12daz`, 3D faces in DWG/DXF).
+- Load multiple files simultaneously.
+- Simplify the menu and auto-detect input type by file extension.
 - Other interface improvements.  
 
 ---
